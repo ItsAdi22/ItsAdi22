@@ -7,9 +7,9 @@
 
 - 📫 How to reach me **itsadi22.zil@ud.me**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itsadi22&show_icons=true&locale=en" alt="itsadi22" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsadi22&show_icons=true&locale=en&layout=compact" alt="itsadi22" /></p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsadi22&show_icons=true&locale=en&layout=compact" alt="itsadi22" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itsadi22&show_icons=true&locale=en" alt="itsadi22" /></p>
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itsadi22&" alt="itsadi22" /></p>

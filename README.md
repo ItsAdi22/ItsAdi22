@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Aditya Mondkar</h1>
 <h3 align="center">A passionate python developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itsadi22" alt="itsadi22" /></a> </p>
 
 - 🌱 I’m currently learning **Python frameworks**
 
 - 📫 How to reach me **itsadi22.zil@ud.me**
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itsadi22" alt="itsadi22" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

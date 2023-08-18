@@ -8,12 +8,9 @@
 - 📫 How to reach me **itsadi22.zil@ud.me**
 
 <center>
-<p><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=itsadi22&show_icons=true&locale=en&layout=compact" alt="itsadi22" /></p>
-
 <p>&nbsp;<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=itsadi22&show_icons=true&locale=en" alt="itsadi22" /></p>
-
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=itsadi22&" alt="itsadi22" /></p>
-
+<p><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=itsadi22&show_icons=true&locale=en&layout=compact" alt="itsadi22" /></p>
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itsadi22" alt="itsadi22" /></a> </p> -->
 </center>
 

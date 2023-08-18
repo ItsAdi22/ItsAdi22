@@ -14,7 +14,7 @@
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=itsadi22&" alt="itsadi22" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itsadi22" alt="itsadi22" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itsadi22" alt="itsadi22" /></a> </p> -->
 </center>
 
 <h3 align="left">Languages and Tools:</h3>

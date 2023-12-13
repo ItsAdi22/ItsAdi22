@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer from India</h3>
 
 
-- 🌱 I’m currently learning **Python frameworks**
+- 🌱 I’m currently learning **Python and Javascript frameworks**
 
 - 📫 How to reach me **itsadi22.zil@ud.me**
 

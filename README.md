@@ -8,10 +8,11 @@
 
 <center>
 <p>&nbsp;<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=itsadi22&show_icons=true&locale=en" alt="itsadi22" /></p>
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=itsadi22&" alt="itsadi22" /></p> <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=6160820" style='border:none;'></iframe>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=itsadi22&" alt="itsadi22" /></p> <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=6160820" style='border:none;'></iframe></p>
+
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=6160820" style='border:none;'></iframe>
 
 
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itsadi22" alt="itsadi22" /></a> </p> -->
 </center>
 
 <h3 align="left">Languages and Tools:</h3>

@@ -9,7 +9,7 @@
 <center>
 <p>&nbsp;<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=itsadi22&show_icons=true&locale=en" alt="itsadi22" /></p>
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=itsadi22&" alt="itsadi22" /></p> 
-<p><img src="[https://github-readme-streak-stats.herokuapp.com/?user=itsadi22&](https://tryhackme-badges.s3.amazonaws.com/adityamondkar111.png)" alt="itsadi22" /></p> 
+<p><img src="https://tryhackme-badges.s3.amazonaws.com/adityamondkar111.png" alt="itsadi22 tryhackme stats" /></p> 
 
 
 
